@@ -1,1 +1,2 @@
 I just completed the JavaScript part of the PigGame project and got the HTML/CSS part from the course.
+In this game, you roll the dice and collect points until you roll the same number as the previous roll. If you roll the same number, your turn ends, and the dice pass to your opponent. You can choose to take the risk or play it safe to accumulate points. The first player to reach 100 points wins the game.
